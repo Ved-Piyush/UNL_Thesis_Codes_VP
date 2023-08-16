@@ -7,5 +7,5 @@ Please use the links below to navigate to the repositories corresponding to the 
 * Chapter 4 [Scalability of Matrix Ensemble Kalman Filter-based stacker for combining two multi-arm deep learners](https://github.com/Ved-Piyush/MEnKF_Ensembler_DualGCN_DeepCDR)
 
 * Chapter 5 [Extending Matrix Ensemble Kalman Filter-based stacker for
-predicting multivariate responses]([https://github.com/Ved-Piyush/MEnKF_Ensembler_DualGCN_DeepCDR](https://github.com/Ved-Piyush/MEnKF_ChemBL_Multivariate)https://github.com/Ved-Piyush/MEnKF_ChemBL_Multivariate)
+predicting multivariate responses](https://github.com/Ved-Piyush/MEnKF_ChemBL_Multivariate)
 
